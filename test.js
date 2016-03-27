@@ -1,2 +1,2 @@
 var expect = require('chai').expect
-expect('foo').to.equal('bar')
+expect('2').to.equal('3')

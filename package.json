@@ -1,0 +1,22 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beerIT15kmutnb/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beerIT15kmutnb/gittest/issues"
+  },
+  "homepage": "https://github.com/beerIT15kmutnb/gittest#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
